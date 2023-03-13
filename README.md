@@ -1,4 +1,4 @@
-# Capstone-Project-2
+# Airplane Passenger Satisfaction Analysis
 
 Dalam projek ini, saya akan memposisikan diri saya sebagai seorang data analyst dalam sebuah perusahaan maskapai penerbangan dimana saya membuat serangkaian pertanyaan berdasarkan keperluan bisnis dan masalah yang mungkin dihadapi oleh perusahaan terkait sesuai dengan data Airline Passenger Satisfaction. Saya akan menjawab pertanyaan yang telah dibuat melalui analisis data, membuat cerita dan visualisasi, serta mempresentasikan insight dari analisis yang kemudian bisa digunakan stakeholders sebagai dasar pengambilan keputusan bisnis. 
 
